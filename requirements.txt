@@ -1,2 +1,2 @@
-biopython==1.74
-numpy==1.17.3
+biopython==1.76
+numpy==1.18.1
